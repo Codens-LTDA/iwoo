@@ -1,0 +1,29 @@
+
+@font-face {
+    font-family: 'baloobold';
+    src: url('../iwoo/assets/fonts/baloo/BalooBhai2-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'balooextrabold';
+    src: url('../iwoo/assets/fonts/baloo/BalooBhai2-ExtraBold.ttf');
+}
+
+@font-face {
+    font-family: 'baloomedium';
+    src: url('../iwoo/assets/fonts/baloo/BalooBhai2-Medium.ttf');
+}
+
+@font-face {
+    font-family: 'balooregular';
+    src: url('../iwoo/assets/fonts/baloo/BalooBhai2-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'damionregular';
+    src: url('../iwoo/assets/fonts/damion/damion-regular-webfont.woff2') format('woff2'),
+         url('../iwoo/assets/fonts/damion/damion-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
